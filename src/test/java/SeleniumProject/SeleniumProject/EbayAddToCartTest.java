@@ -17,7 +17,7 @@ import java.util.Set;
 public class EbayAddToCartTest {
     private WebDriver driver;
     private WebDriverWait wait;
-//Adding AddToCart
+//Adding AddToCart 
     public EbayAddToCartTest() { }
 
     @BeforeClass
