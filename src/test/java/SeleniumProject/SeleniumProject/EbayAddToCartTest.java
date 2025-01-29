@@ -62,7 +62,7 @@ public class EbayAddToCartTest {
         // Assertion to verify item was added
         Assert.assertTrue(cartItems > 0, "Cart is not updated!");
 
-        System.out.println("✅ Test Passed: Item successfully added to cart!");
+        System.out.println("Test Passed: Item successfully added to cart!");
     }
 
     @AfterClass
